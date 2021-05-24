@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-<a href="https://bitbucket.org/alexisveryreal"><img width="50" height="50" src="jiraiya.png" alt="Jiraiya"></a>
+<a href="https://bitbucket.org/alexisveryreal"><img width="500" height="500" src="jiraiya.png" alt="Jiraiya"></a>
 </p>
 
 <br>
